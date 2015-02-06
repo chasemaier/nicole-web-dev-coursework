@@ -16,7 +16,7 @@
 header, article, aside, figure, figcaption, hgroup,
 section, nav 
 {
-   
+    display: block;
 }
 
 /* Default styles */
