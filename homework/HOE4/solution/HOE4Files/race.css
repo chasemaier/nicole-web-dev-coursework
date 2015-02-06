@@ -175,7 +175,10 @@ aside p
 
 article 
 {
-   
+   float: left;
+   width: 29%;
+   margin-left: 1%;
+   background-color: rgb(215, 181, 151);
 }
 
 article hgroup 
