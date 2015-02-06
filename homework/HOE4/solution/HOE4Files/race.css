@@ -214,7 +214,11 @@ article p
 
 figure 
 {
-   
+   clear: left;
+   float: left;
+   margin-left: 21%;
+   width: 79%;
+   background-color: rgb(149, 91, 42);
 }
 
 figure div 
