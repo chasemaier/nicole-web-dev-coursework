@@ -224,6 +224,7 @@ figure
 figure div 
 {
    white-space: nowrap;
+   overflow: scroll;
 }
 
 figure div img 
