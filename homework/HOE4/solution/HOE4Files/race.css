@@ -122,7 +122,11 @@ nav.vertical li a:hover
 
 #main 
 {
-   
+    clear: left;
+    float: left;
+    margin-left: 21%;
+    margin-top: 20px;
+    width: 49%;
 }
 
 #main > h1 
