@@ -229,7 +229,8 @@ figure div
 
 figure div img 
 {
-   
+    margin: 10px;
+    border-radius: 10px;
 }
 
 figure figcaption 
