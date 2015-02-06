@@ -184,7 +184,12 @@ article
 article hgroup 
 {
    color: rgb(215, 181, 151);
-   
+   background-color: rgb(189, 131, 82);
+   background-image: url('Alisha.png');
+   background-position: bottom right;
+   background-repeat: no-repeat;
+   height: 60px;
+   padding-left: 20px;
 }
 
 article hgroup h1 
