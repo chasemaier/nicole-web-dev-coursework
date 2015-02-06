@@ -1,0 +1,207 @@
+/*
+   New Perspectives on HTML and CSS
+   Html - HOE 4
+
+   Cycle Pathology Style Sheet
+   Author: 
+   Date:   
+
+   Filename:         race.css
+   Supporting Files: 
+
+*/
+
+/* Display HTML5 structural elements as blocks */
+
+header, article, aside, figure, figcaption, hgroup,
+section, nav 
+{
+   
+}
+
+/* Default styles */
+
+* 
+{
+   font-family: Verdana, Geneva, sans-serif;
+   font-size: 100%;
+   padding: 0px;
+   margin: 0px;
+}
+
+nav a 
+{
+   text-decoration: none;
+}
+
+/* Body style */
+
+body 
+{
+   
+}
+
+/* Header styles */
+
+header 
+{
+   
+}
+
+header img 
+{
+   
+}
+
+/* Horizontal Navigation List styles */
+
+nav.horizontal 
+{
+   margin-left: 20%;
+   width: 80%;
+}
+
+nav.horizontal li 
+{
+   background-color: rgb(49, 38, 31);
+   font-size: 85%;
+   text-align: center;
+   text-transform: uppercase;
+}
+
+nav.horizontal a 
+{
+   color: white;
+}
+
+nav.horizontal a:hover 
+{
+   color: rgb(215, 181, 151);
+}
+
+/* Vertical Navigation List styles */
+
+nav.vertical li 
+{
+   font-size: 85%;
+   list-style: none;
+}
+
+nav.vertical li.newgroup 
+{
+   
+}
+
+nav.vertical li a 
+{
+   color: white;
+   display: block;
+   text-indent: 10px;
+}
+
+nav.vertical li a:hover 
+{
+   background-color: rgb(51, 51, 51);
+   outline: 2px solid rgb(215, 181, 151);
+}
+
+/* Main Section styles */
+
+#main 
+{
+   
+}
+
+#main > h1 
+{
+   color: rgb(189, 131, 82);
+   font-size: 180%;
+   font-weight: normal;
+   letter-spacing: 5px;
+}
+
+#main p 
+{
+   
+}
+
+#main ul 
+{
+   list-style-type: disc;
+}
+
+#main ul li 
+{
+   
+}
+
+/* Aside styles */
+
+aside 
+{
+   color: rgb(149, 91, 42);
+
+}
+
+aside p 
+{
+   font-size: 90%;
+   margin: 20px;
+}
+
+/* Article styles */
+
+article 
+{
+   
+}
+
+article hgroup 
+{
+   color: rgb(215, 181, 151);
+   
+}
+
+article hgroup h1 
+{
+   font-size: 150%;
+   font-weight: normal;
+}
+
+article hgroup h2 
+{
+   font-size: 110%;
+   font-weight: normal;
+}
+
+article p 
+{
+   font-size: 90%;
+   margin: 15px;
+}
+
+/* Figure box styles */
+
+figure 
+{
+   
+}
+
+figure div 
+{
+   white-space: nowrap;
+}
+
+figure div img 
+{
+   
+}
+
+figure figcaption 
+{
+   background-color: white;
+   font-size: 80%;
+   font-style: italic;
+   text-align: center;
+   margin-top: 5px;
+}
