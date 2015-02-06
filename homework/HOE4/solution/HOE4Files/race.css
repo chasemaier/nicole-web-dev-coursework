@@ -145,11 +145,12 @@ nav.vertical li a:hover
 #main ul 
 {
    list-style-type: disc;
+   margin: 25px;
 }
 
 #main ul li 
 {
-   
+   margin-bottom: 10px;
 }
 
 /* Aside styles */
