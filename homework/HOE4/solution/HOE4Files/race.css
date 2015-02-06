@@ -158,7 +158,11 @@ nav.vertical li a:hover
 aside 
 {
    color: rgb(149, 91, 42);
-
+   border: 3px solid rgb(149, 91, 42);
+   float: right;
+   margin: 10px;
+   width: 50%;
+   border-radius: 30px;
 }
 
 aside p 
